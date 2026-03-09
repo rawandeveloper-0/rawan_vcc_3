@@ -1,4 +1,3 @@
-# rawan_vcc_3
 # Smart Coffee Machine
 
 The Smart Coffee Machine is a concept project designed to demonstrate modern documentation practices using GitHub. This project represents a fictional intelligent coffee system that automates brewing, customization, and remote control through smart technology.
@@ -22,6 +21,8 @@ The system is designed for convenience, efficiency, and personalization, giving 
 
 Clone the repository to your local machine:
 
+git clone https://github.com/rawandeveloper-0/rawan_vcc_3.git
+
 
 No additional installation is required since this project focuses on documentation.
 
@@ -38,4 +39,4 @@ Users can customize:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the LICENSE file for details.
